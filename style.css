@@ -21,6 +21,10 @@ h2 {
 	font-size:24px;
 }
 
+h3 {
+	font-size: 18px;
+	margin-left: 20px;
+}
 a:link, a:visited {
 	color: #03C;
 }
